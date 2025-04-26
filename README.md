@@ -14,3 +14,37 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 - **Exploratory Data Analysis (EDA)**: Analyzed transaction data to uncover sales patterns, anomalies, and cost-related trends.
 - **Reporting & Visualization**: Built detailed Excel reports using pivot tables, formulas, and conditional formatting to visualize key metrics such as sales trends, gross profit, and cost breakdowns.
 - **Insight Generation**: Delivered actionable insights, such as identifying high-performing products and key customers, seasonal trends, and cost inefficiencies.
+
+## 📊 **Report 1 - Customer Performance Sales Report**
+
+![Customer Performance Sales Report](https://github.com/TanishaSood24/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Screenshot%202025-04-26%20112835.png)
+![Customer Performance Sales Report](https://github.com/TanishaSood24/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Screenshot%202025-04-26%20113409.png)
+
+### **Year-over-Year Growth**:
+- Total net sales increased significantly, growing from **$87.5M** in **2019** to **$598.9M** in **2021**, representing a **304.5% growth** in 2021 vs. 2020.
+
+### **Top Performing Customers**:
+- **Amazon**: Achieved the highest sales, growing from **$12.2M** in **2019** to **$82.1M** in **2021** (**218.9% growth**).
+- **AtliQ Exclusive**: Increased sales from **$9.6M** to **$61.1M** over the same period, showing a **345.8% growth**.
+- **AtliQ eStore** and **Electricalsocity**: Both were high-performing segments with sales exceeding **$50M** in 2021.
+
+### **Highest Percentage Growth**:
+- **Nova**: Recorded an astounding **2664.9% growth** in **2021** vs. 2020, though starting from a low base.
+- **Logic Stores** and **Electricalsquipo Stores** had remarkable growth rates of **515.2%** and **535.3%**, respectively.
+
+### **Consistent Performers**:
+- **Walmart**, **Reliance Digital**, and **Staples** maintained strong and steady sales growth, contributing significantly to the overall revenue.
+
+### **Emerging Markets**:
+- Smaller customers like **Neptune** and **Girias** grew rapidly, with sales of **$16.1M** and **$8.7M**, respectively, showing strong potential for expansion.
+
+### **General Trends**:
+- **High Growth Segments**: Online marketplaces like **Amazon**, **Flipkart**, and **AtliQ eStore** showed consistent year-over-year increases, highlighting a shift toward **digital retail**.
+- **Regional Expansion**: Smaller stores like **UniEuro** and **Electricalslance Stores** displayed impressive growth percentages, indicating success in **regional or niche markets**.
+- **Diverse Performance**: While some customers like **Nova** experienced exponential growth, others such as **Taobao** and **Currys** had more moderate increases, signaling varied market dynamics.
+
+### **Actionable Recommendations**:
+- **Focus on High-Growth Customers**: Strengthen partnerships with top performers like **Amazon**, **AtliQ Exclusive**, and **Electricalsocity** to maintain momentum.
+- **Support Emerging Markets**: Invest in customers with strong growth potential, such as **Neptune**, **Logic Stores**, and **Nova**, through targeted promotions or incentives.
+- **Optimize Strategies for Slower Segments**: Reassess engagement strategies for moderately growing customers to unlock further potential.
+
