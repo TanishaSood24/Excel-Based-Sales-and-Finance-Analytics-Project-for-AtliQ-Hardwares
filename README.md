@@ -48,9 +48,9 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 - **Support Emerging Markets**: Invest in customers with strong growth potential, such as **Neptune**, **Logic Stores**, and **Nova**, through targeted promotions or incentives.
 - **Optimize Strategies for Slower Segments**: Reassess engagement strategies for moderately growing customers to unlock further potential.
 
-- ## 📈 **Report 2 - Market Performance VS Target**
+## 📈 **Report 2 - Market Performance VS Target**
 
- ![Market Performance VS Target](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Market%20Performance%20VS%20Target.png)
+![Market Performance VS Target](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Market%20Performance%20VS%20Target.png)
 
 ### **Overall Performance**:
 - Atliq Hardware’s total sales expanded notably from **$87.5M in 2019** to **$598.9M in 2021**.
@@ -78,5 +78,9 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 - **Prioritize High-Impact Regions**: Focus on closing the sales gap in India, USA, and South Korea through enhanced marketing strategies, optimized supply chains, and stronger partnerships.
 - **Address Underperforming Countries**: Develop tailored strategies for markets like Poland, Canada, and Spain to uplift sales performance — such as local promotions or expanded distribution channels.
 - **Capitalize on Emerging Markets**: Continue investing in regions like Indonesia and Portugal, where there is clear growth potential with relatively smaller target gaps.
+
+## 📊 **Report 3 - Profit & Loss Report by Fiscal Years**
+
+![Profit & Loss Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/P%20%26%20L%20by%20FY.png)
 
 
