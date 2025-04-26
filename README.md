@@ -18,7 +18,7 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 ## 📊 **Report 1 - Customer Performance Sales Report**
 
 ![Customer Performance Sales Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Customer%20Performance%20Sales%20Report.png)
-![Customer Performance Sales Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/raw/main/Screenshot%202025-04-26%20113409.png)
+![Customer Performance Sales Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Customer%20Performance%20Sales%20Report_.png)
 
 ### **Year-over-Year Growth**:
 - Total net sales increased significantly, growing from **$87.5M** in **2019** to **$598.9M** in **2021**, representing a **304.5% growth** in 2021 vs. 2020.
