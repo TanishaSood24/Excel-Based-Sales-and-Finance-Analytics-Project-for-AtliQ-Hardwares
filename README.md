@@ -48,9 +48,9 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 - **Support Emerging Markets**: Invest in customers with strong growth potential, such as **Neptune**, **Logic Stores**, and **Nova**, through targeted promotions or incentives.
 - **Optimize Strategies for Slower Segments**: Reassess engagement strategies for moderately growing customers to unlock further potential.
 
-- ## 📈 **Report 1 - Market Performance VS Target**
+- ## 📈 **Report 2 - Market Performance VS Target**
 
-![Market Performance VS Target]([https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202024-12-17%20143243.png](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Market%20Performance%20VS%20Target.png))
+ ![Market Performance VS Target](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Market%20Performance%20VS%20Target.png)
 
 ### **Overall Performance**:
 - Atliq Hardware’s total sales expanded notably from **$87.5M in 2019** to **$598.9M in 2021**.
