@@ -20,17 +20,45 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 ![Customer Performance Sales Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Customer%20Performance%20Sales%20Report.png)
 ![Customer Performance Sales Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Customer%20Performance%20Sales%20Report_.png)
 
+## 📈 **Report 2 - Market Performance VS Target**
+
+![Market Performance VS Target](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Market%20Performance%20VS%20Target.png)
+
+## 📊 **Report 3 - Profit & Loss Report by Fiscal Years**
+
+![Profit & Loss Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/P%20%26%20L%20by%20FY.png)
+
+## 📊 **Report 4 - Profit & Loss Report by Fiscal Months**
+
+![Profit & Loss Report by Fiscal Months](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/P%20%26%20L%20by%20FY%20Quarters.png)
+
+## 🌍 **Report 5 - Profit & Loss Report for Markets**
+![P&L for Markets](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/P%20%26%20L%20for%20Markets.png)
+
+## 🗂️ **Report 6 - Division Level Report**
+![Division Level Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Division%20Level%20Report.png)
+
+🆕🌍 **Report 7 - New Products 2021 and Top 5 Countries 2021**
+![New Products 2021 and Top 5 Countries 2021](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/New%20Products%20and%20Top%205%20Countries%202021.png)
+
+## 🏆 **Report 8 - Top 10 Products**
+![Top 10 Products](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Top%2010%20Products.png)
+
+## 📉 **Report 9 - Top 5 and Bottom 5 Products**
+![Top 5 and Bottom 5 Products](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Top%205%20and%20Bottom%205%20Products.png)
+
+## 🛒 **Customer Net Sales Performance Report**
 ### **Year-over-Year Growth**:
-- Total net sales increased significantly, growing from **$87.5M** in **2019** to **$598.9M** in **2021**, representing a **304.5% growth** in 2021 vs. 2020.
+- Total net sales increased significantly, growing from **$87.5M** in **2019** to **$598.9M** in **2021**, representing a **304.5%** growth in 2021 vs. 2020.
 
 ### **Top Performing Customers**:
 - **Amazon**: Achieved the highest sales, growing from **$12.2M** in **2019** to **$82.1M** in **2021** (**218.9% growth**).
-- **AtliQ Exclusive**: Increased sales from **$9.6M** to **$61.1M** over the same period, showing a **345.8% growth**.
-- **AtliQ eStore** and **Electricalsocity**: Both were high-performing segments with sales exceeding **$50M** in 2021.
+- **AtliQ Exclusive**: Increased sales from **$9.6M** to **$61.1M** over the same period, showing a robust **345.8% growth**.
+- **AtliQ eStore** and **Electricalsocity** were also high-performing segments, with sales exceeding **$50M** in **2021**.
 
 ### **Highest Percentage Growth**:
-- **Nova**: Recorded an astounding **2664.9% growth** in **2021** vs. 2020, though starting from a low base.
-- **Logic Stores** and **Electricalsquipo Stores** had remarkable growth rates of **515.2%** and **535.3%**, respectively.
+- **Nova**: Recorded an astounding **2664.9% growth** in **2021** vs. **2020**, though starting from a low base.
+- **Logic Stores** and **Electricalsquipo Stores** also had remarkable growth rates of **515.2%** and **535.3%**, respectively.
 
 ### **Consistent Performers**:
 - **Walmart**, **Reliance Digital**, and **Staples** maintained strong and steady sales growth, contributing significantly to the overall revenue.
@@ -38,49 +66,70 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 ### **Emerging Markets**:
 - Smaller customers like **Neptune** and **Girias** grew rapidly, with sales of **$16.1M** and **$8.7M**, respectively, showing strong potential for expansion.
 
-### **General Trends**:
-- **High Growth Segments**: Online marketplaces like **Amazon**, **Flipkart**, and **AtliQ eStore** showed consistent year-over-year increases, highlighting a shift toward **digital retail**.
-- **Regional Expansion**: Smaller stores like **UniEuro** and **Electricalslance Stores** displayed impressive growth percentages, indicating success in **regional or niche markets**.
-- **Diverse Performance**: While some customers like **Nova** experienced exponential growth, others such as **Taobao** and **Currys** had more moderate increases, signaling varied market dynamics.
-
-### **Actionable Recommendations**:
-- **Focus on High-Growth Customers**: Strengthen partnerships with top performers like **Amazon**, **AtliQ Exclusive**, and **Electricalsocity** to maintain momentum.
-- **Support Emerging Markets**: Invest in customers with strong growth potential, such as **Neptune**, **Logic Stores**, and **Nova**, through targeted promotions or incentives.
-- **Optimize Strategies for Slower Segments**: Reassess engagement strategies for moderately growing customers to unlock further potential.
-
-## 📈 **Report 2 - Market Performance VS Target**
-
-![Market Performance VS Target](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Market%20Performance%20VS%20Target.png)
-
-### **Overall Performance**:
-- Atliq Hardware’s total sales expanded notably from **$87.5M in 2019** to **$598.9M in 2021**.
-- However, the company fell short of its 2021 sales targets by **$54.9M**, reflecting an **overall underachievement of 9.2%**.
-
+## 🎯 **Market Performance vs. Sales Targets Report**
 ### **Top-Performing Markets**:
-- **India**: Delivered the highest sales at **$161.3M** in 2021 but missed the target by **$9.6M** (shortfall of **5.9%**).
-- **USA**: Recorded **$87.8M** in sales, ranking second, but lagged behind the target by **$10.2M** (**11.7%** gap).
-- **South Korea**: Achieved **$49.0M** in sales but remained **8.9%** below the target.
+- **India**: Contributed the highest sales of **$161.3M** in 2021 but missed the target by **$9.6M** (a **5.9%** shortfall).
+- **USA**: Recorded **$87.8M** in sales, the second-highest, but fell short by **$10.2M** (**11.7%** below target).
+- **South Korea**: Generated **$49.0M**, missing the target by **$4.4M** (**8.9%** below target).
 
 ### **Underperforming Markets**:
-- **Poland**: Experienced the largest percentage gap, missing its target by **18.1%**.
-- **Canada**: Despite sales of **$35.1M**, fell short by **$5.1M** (**14.5%** gap).
-- **Spain**: Sales reached **$12.6M**, but the deviation was **14.1%**, reflecting considerable underperformance.
+- **Poland**: Showed the largest percentage gap, falling short by **18.1%** of the target.
+- **Canada**: Despite achieving **$35.1M** in sales, it missed the target by **$5.1M** (**14.5%** below target).
+- **Spain**: Sales were **$12.6M**, but the gap was **14.1%**, reflecting one of the highest deviations.
 
 ### **Steady Performers**:
-- **Philippines**: Delivered **$31.9M** in sales with only a **7.8%** shortfall, indicating stable market performance.
-- **France and China**: Maintained strong sales at **$25.9M** and **$22.9M** respectively, with modest shortfalls of **8.4%** and **9.0%**.
+- **Philippines**: Delivered **$31.9M** in sales, with only a **7.8%** gap, showcasing steady performance.
+- **France** and **China**: Both saw modest underachievement of **8.4%** and **9.0%**, respectively, while maintaining strong sales of **$25.9M** and **$22.9M**.
 
 ### **Emerging Markets**:
-- **Indonesia**: Sales climbed to **$18.4M**, but with a **12.9%** underachievement, there is scope for improvement.
-- **Portugal**: Performed well among smaller markets, achieving **$11.8M** with the **smallest gap of 4.3%**.
+- **Indonesia**: Sales grew to **$18.4M**, but underachievement of **12.9%** signals room for improvement.
+- **Portugal**: Despite being a smaller market, achieved **$11.8M** with the smallest gap of **4.3%**.
 
-### **Insights & Recommendations**:
-- **Prioritize High-Impact Regions**: Focus on closing the sales gap in India, USA, and South Korea through enhanced marketing strategies, optimized supply chains, and stronger partnerships.
-- **Address Underperforming Countries**: Develop tailored strategies for markets like Poland, Canada, and Spain to uplift sales performance — such as local promotions or expanded distribution channels.
-- **Capitalize on Emerging Markets**: Continue investing in regions like Indonesia and Portugal, where there is clear growth potential with relatively smaller target gaps.
+## 💵 **Yearly Profit and Loss (P&L) Report**
+- Net Sales surged by **204.5%** over three years.
+- Efficient cost management helped maintain a strong gross margin despite sales expansion.
 
-## 📊 **Report 3 - Profit & Loss Report by Fiscal Years**
+## 🗓️ **Quarterly Profit and Loss (P&L) Comparison**
+- 2021 saw significant quarterly sales growth.
+- Profit margins remained stable even with increased costs.
 
-![Profit & Loss Report](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/P%20%26%20L%20by%20FY.png)
+## 🌍 **Market-Specific Profit and Loss (P&L) Report**
+- **Japan** and **New Zealand** achieved the highest profit margins.
+- **Germany** recorded comparatively lower margins.
+
+## 📈 **Quarterly Gross Margin % (GM%) by Location Report**
+- Regional variation in profit margins observed.
+- Helped identify high-performing and low-performing locations for strategic decisions.
+
+## 🏆 **Top 10 Products Report**
+- The top 10 products accounted for **35% of total revenue**.
+- Bestsellers included "**AQ Electron 4 3600 Desktop processor**" and "**AQ Pen Drive DRC**".
+
+## 🧩 **Top and Bottom 5 Sold Products Report**
+- **Top 5 Products**: "AQ Master wired x1 Ms" led in quantity sold.
+- **Bottom 5 Products**: Identified products needing potential improvements or discontinuation.
+
+## 🆕 **New Products in 2021 Report**
+- 16 new products were launched.
+- "**AQ Qwerty**" emerged as a standout new product.
+
+## 🌐 **Top 5 Countries by Sales in 2021 Report**
+- **India** led with **$161.3M** in sales.
+- Strong performances also seen in **USA, South Korea, UK, and Canada**.
+
+## 🖥️ **Division Level Report**
+- **PCs** sales increased from **$40.1M in 2020** to **$165.8M in 2021**.
+- **Accessories and Peripherals** grew from **$105.2M** to **$338.4M** (**321.5% increase**).
+- **Networking and Storage** products rose from **$51.4M** to **$94.7M** (**184.4% increase**).
+
+## **Key Takeaways**
+
+- Enhanced technical skills in creating scalable Excel dashboards.
+- Gained proficiency in analyzing large datasets and deriving actionable insights.
+- Strengthened ability to communicate technical findings in a business-friendly manner.
+- Improved understanding of sales and financial metrics.
+- Developed a deeper connection between data analysis and real-world business strategies.
+- Prepared for future roles in data analytics and finance by showcasing key skills in performance tracking and data-driven decision-making.
+
 
 
