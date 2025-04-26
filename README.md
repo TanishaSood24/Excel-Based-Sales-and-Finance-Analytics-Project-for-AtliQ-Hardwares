@@ -48,3 +48,35 @@ AtliQ Hardware aimed to enhance business performance by gaining a deeper underst
 - **Support Emerging Markets**: Invest in customers with strong growth potential, such as **Neptune**, **Logic Stores**, and **Nova**, through targeted promotions or incentives.
 - **Optimize Strategies for Slower Segments**: Reassess engagement strategies for moderately growing customers to unlock further potential.
 
+- ## 📈 **Report 1 - Market Performance VS Target**
+
+![Market Performance VS Target]([https://github.com/YourUsername/YourRepoName/raw/main/Screenshot%202024-12-17%20143243.png](https://github.com/TanishaSood2410/Excel-Based-Sales-and-Finance-Analytics-Project-for-AtliQ-Hardware/blob/main/Market%20Performance%20VS%20Target.png))
+
+### **Overall Performance**:
+- Atliq Hardware’s total sales expanded notably from **$87.5M in 2019** to **$598.9M in 2021**.
+- However, the company fell short of its 2021 sales targets by **$54.9M**, reflecting an **overall underachievement of 9.2%**.
+
+### **Top-Performing Markets**:
+- **India**: Delivered the highest sales at **$161.3M** in 2021 but missed the target by **$9.6M** (shortfall of **5.9%**).
+- **USA**: Recorded **$87.8M** in sales, ranking second, but lagged behind the target by **$10.2M** (**11.7%** gap).
+- **South Korea**: Achieved **$49.0M** in sales but remained **8.9%** below the target.
+
+### **Underperforming Markets**:
+- **Poland**: Experienced the largest percentage gap, missing its target by **18.1%**.
+- **Canada**: Despite sales of **$35.1M**, fell short by **$5.1M** (**14.5%** gap).
+- **Spain**: Sales reached **$12.6M**, but the deviation was **14.1%**, reflecting considerable underperformance.
+
+### **Steady Performers**:
+- **Philippines**: Delivered **$31.9M** in sales with only a **7.8%** shortfall, indicating stable market performance.
+- **France and China**: Maintained strong sales at **$25.9M** and **$22.9M** respectively, with modest shortfalls of **8.4%** and **9.0%**.
+
+### **Emerging Markets**:
+- **Indonesia**: Sales climbed to **$18.4M**, but with a **12.9%** underachievement, there is scope for improvement.
+- **Portugal**: Performed well among smaller markets, achieving **$11.8M** with the **smallest gap of 4.3%**.
+
+### **Insights & Recommendations**:
+- **Prioritize High-Impact Regions**: Focus on closing the sales gap in India, USA, and South Korea through enhanced marketing strategies, optimized supply chains, and stronger partnerships.
+- **Address Underperforming Countries**: Develop tailored strategies for markets like Poland, Canada, and Spain to uplift sales performance — such as local promotions or expanded distribution channels.
+- **Capitalize on Emerging Markets**: Continue investing in regions like Indonesia and Portugal, where there is clear growth potential with relatively smaller target gaps.
+
+
